@@ -1,0 +1,6 @@
+code: et-strapi-template-app
+titles:
+  en: Entando Strapi Template MF
+  it: Entando Strapi Template MF
+group: free
+customUiPath: et-strapi-template-widget.ftl
